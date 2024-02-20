@@ -1,1 +1,1 @@
-# PrometheanAI-Blender-plugin
+# PrometheanAI Blender plugin
